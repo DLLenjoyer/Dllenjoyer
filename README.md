@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Backend,Rust,Java**
 
-- 📫 How to reach me **you can write me in Discord: overdosov**
+- 📫 How to reach me **you can write me in Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
