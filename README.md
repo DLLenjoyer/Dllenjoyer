@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dllcore</h1>
+<h1 align="center">Hi 👋, I'm 0x2170 aka Dllcore</h1>
 <h3 align="center">I am backend,cybersecurity developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dllenjoyer&label=Profile%20views&color=0e75b6&style=flat" alt="dllenjoyer" /> </p>
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/DLLenjoyer?tab=repositories](https://github.com/DLLenjoyer?tab=repositories)
 
-- 💬 Ask me about **Backend,Rust,Java**
+- 💬 Ask me about **Backend,Rust,Cybersecurity**
 
 - 📫 How to reach me **you can write me in Discord**
 
