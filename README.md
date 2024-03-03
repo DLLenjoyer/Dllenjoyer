@@ -2,7 +2,7 @@
 <img src="finger.gif" height="32"/></h1>
 <h3 align="center">A Rust,Backend,Cybersecurity,System Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dllenjoyer&label=Profile%20views&color=0e75b6&style=flat" alt="dllenjoyer" /> </p>
-- 🌱 I’m currently learning **Cybersecurity,Reverse Engineering,Backend **
+- 🌱 I’m currently learning **Cybersecurity,Reverse Engineering,Backend,Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DLLenjoyer?tab=repositories](https://github.com/DLLenjoyer?tab=repositories)
 
